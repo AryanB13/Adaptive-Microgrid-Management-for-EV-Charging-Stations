@@ -4,8 +4,6 @@
 
 This project implements an intelligent Energy Management System (EMS) for efficient Electric Vehicle (EV) charging using Reinforcement Learning (RL). The system optimizes power utilization from multiple sources: grid, photovoltaic (PV) systems, and battery storage.
 
-<img src="C:\Users\aryan19b\Downloads\abcde.png" width="300" height="200">
-
 
 ## Features
 
