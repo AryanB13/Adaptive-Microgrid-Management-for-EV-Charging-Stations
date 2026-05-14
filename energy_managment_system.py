@@ -278,7 +278,7 @@ ns_global=[]
 
 for episode in range(200):
     state = env.reset()
-    state = np.zeros([1, STATE_SIZE])
+    state = np.reshape(state, [1, STATE_SIZE])
 
     total_reward = 0
     done = False
